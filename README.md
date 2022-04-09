@@ -1,9 +1,6 @@
 ### Hi
 
-I'm a guy who does stuff and codes
-
-Im working on Extra Keys for Psych Engine
-![plswork]("https://gamebanana.com/mods/embeddables/333373?variant=medium_square")
+fuck fnf
 
 I live in Ecuador
 
