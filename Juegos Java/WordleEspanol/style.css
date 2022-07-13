@@ -1,0 +1,22 @@
+.row {
+    display: flex;
+}
+
+.letter-container {
+    border: solid 5px black;
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 800;
+}
+
+.letter-container[info=has] {
+    background-color: orange;
+};
+
+.letter-container[info=correct] {
+    background-color: green;
+}
