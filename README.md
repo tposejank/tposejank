@@ -1,6 +1,7 @@
 # Hello!
 
 I have a master's degree on stupidity:
+
 ![image](https://github.com/user-attachments/assets/f093c540-fc7b-417e-a7c0-a75d7b980f2a)
 
 <div align="center">
